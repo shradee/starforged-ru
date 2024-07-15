@@ -6,3 +6,6 @@
 
 # About | EN
 This module includes moves and oracles from Starforged system module translated to Russian. The module is based on the Spanish translation and is not official.
+
+# Installation | EN
+Use manifest link in Foundry VTT to install the module: https://github.com/shradee/starforged-ru/releases/download/1.0.1/module.json

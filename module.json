@@ -1,0 +1,40 @@
+{
+  "id": "starforged-ru",
+  "title": "Starforged - RU Compendium",
+  "description": "Русский перевод ходов системы Starforged.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "shrade",
+      "url": "https://github.com/shradee/starforged-ru",
+      "discord": "shrade_himself"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "url": "https://github.com/shradee/starforged-ru",
+  "manifest": "",
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "foundry-ironsworn",
+        "type": "system",
+        "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
+        "compatibility": {}
+      }
+    ]
+  }
+}
